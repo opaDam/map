@@ -38,35 +38,35 @@ songs = [
     id: 5,
     titel: "You Drive Me Crazy",
     artist: "Shakin Stevens",
-    hoesje: "",
+    hoesje: "https://opadam.github.io/map/map/img/Shakin Stevens.jpg",
     path: "https://opadam.github.io/map/map/a6"
   },
   {
     id: 6,
     titel: "Dance For Ever More",
     artist: "Si Cranstoun",
-    hoesje: "",
+    hoesje: "https://opadam.github.io/map/map/img/Si Cranstoun.jpg",
     path: "https://opadam.github.io/map/map/a7"
   },
   {
     id: 7,
     titel: "Feel Free",
     artist: "Bellamy Brothers",
-    hoesje: "",
+    hoesje: "https://opadam.github.io/map/map/img/Bellamy Brothers - Feel Free.jpg",
     path: "https://opadam.github.io/map/map/a8"
   },
   {
     id: 8,
     titel: "Come A Little Bit Closer",
     artist: "Jay & the Americans",
-    hoesje: "",
+    hoesje: "https://opadam.github.io/map/map/img/Jay_and_the_Americans_Come_a_Little_Bit_Closer_Single.jpg",
     path: "https://opadam.github.io/map/map/a9"
   },
   {
     id: 9,
     titel: "Candida",
     artist: "Tony Orlando",
-    hoesje: "",
+    hoesje: "https://opadam.github.io/map/map/img/Tony Orlando - Candida.jpg",
     path: "https://opadam.github.io/map/map/a10"
   },
   {
