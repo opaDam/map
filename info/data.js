@@ -10,7 +10,7 @@ songs = [
     id: 1,
     titel: "You (DU)",
     artist: "Bouke",
-    hoesje: "https://opadam.github.io/map/img/You_(DU).jpg",
+    hoesje: "https://opadam.github.io/map/img/You_DU.jpg",
     path: "https://opadam.github.io/map/map/a2"
   },
   {
