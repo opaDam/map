@@ -31,7 +31,7 @@ songs = [
     id: 4,
     titel: "Rain And Tears",
     artist: "Aphrodites Child",
-    hoesje: "https://opadam.github.io/map/map/img/Rain And Tears.jpg",
+    hoesje: "https://opadam.github.io/map/img/Rain And Tears.jpg",
     path: "https://opadam.github.io/map/map/a5"
   },
   {
