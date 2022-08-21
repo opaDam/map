@@ -59,35 +59,35 @@
     "id": 8,
     "titel": "Come A Little Bit Closer",
     "artist": "Jay & the Americans",
-    "hoesje": "https://opadam.github.io/map/map/img/Jay_and_the_Americans_Come_a_Little_Bit_Closer_Single.jpg",
+    "hoesje": "https://opadam.github.io/map/img/Come_a_Little_Bit_Closer_Single.jpg",
     "path": "https://opadam.github.io/map/map/a9"
   },
   {
     "id": 9,
     "titel": "Candida",
     "artist": "Tony Orlando",
-    "hoesje": "https://opadam.github.io/map/map/img/Tony Orlando - Candida.jpg",
+    "hoesje": "https://opadam.github.io/map/img/Candida.jpg",
     "path": "https://opadam.github.io/map/map/a10"
   },
   {
     "id": 10,
     "titel": "Chiquita",
     "artist": "ABBA",
-    "hoesje": "https://opadam.github.io/map/map/img/Chiquita.jpg",
+    "hoesje": "https://opadam.github.io/map/img/Chiquita.jpg",
     "path": "https://opadam.github.io/map/map/v1"
   },
   {
     "id": 11,
     "titel": "Dancing Qween",
     "artist": "ABBA",
-    "hoesje": "https://opadam.github.io/map/map/img/Dancing Qween.jpg",
+    "hoesje": "https://opadam.github.io/map/img/Dancing_Qween.jpg",
     "path": "https://opadam.github.io/map/map/v2"
   },
   {
     "id": 12,
     "titel": "Gimme! Gimme! Gimme!",
     "artist": "ABBA",
-    "hoesje": "Gihttps://opadam.github.io/map/map/img/mme! Gimme! Gimme!.jpg",
+    "hoesje": "Gihttps://opadam.github.io/map/img/mme!_Gimme!_Gimme!.jpg",
     "path": "https://opadam.github.io/map/map/v3"
   }
 ]
